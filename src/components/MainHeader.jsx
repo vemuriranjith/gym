@@ -15,8 +15,7 @@ const MainHeader = () => {
           <h4>#100DaysofWorkOut</h4>
           <h1>Join The Legends Of The Fitness World</h1>
           <p>
-            Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor
-             sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet.
+          Step up to the challenge and join the legends of the fitness world. Your journey to greatness starts here.
           </p>
           <Link to ="/plans" className='btn lg'>Get Started</Link>
 

@@ -77,26 +77,26 @@ export const values = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Value One",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Community",
+        desc: "Stronger Together"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Value Two",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Health and Wellness ",
+        desc: "Transform Your Body, Transform Your Life"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Value Three",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Professionalism",
+        desc: "Excellence in Fitness"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Value Four",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Personal Growth",
+        desc: "Unlock Your Potential"
     }
 ]
 
@@ -152,36 +152,36 @@ export const testimonials = [
     {
         id: 1,
         name: "Diana Ayi",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Student",
+        quote: "I never thought I could enjoy working out until I joined this gym. The trainers are knowledgeable and supportive, and the community is so welcoming. It's become a second home for me.",
+         job: "Student",
         avatar: require("./images/avatar1.jpg")
     },
     {
         id: 2,
         name: "Daniel Vinyo",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Software Egineer",
+        quote: "The variety of fitness programs offered here keeps me motivated and challenged. I've seen so much progress in my strength and endurance, and I owe it all to the trainers' expertise.",
+          job: "Software Egineer",
         avatar: require("./images/avatar2.jpg")
     },
     {
         id: 3,
         name: "Edem Quist",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "University Lecturer",
+        quote: "As someone who struggles with anxiety, going to the gym can be overwhelming. But the atmosphere here is so positive and non-judgmental. I always leave feeling more energized and confident.",
+           job: "University Lecturer",
         avatar: require("./images/avatar3.jpg")
     },
     {
         id: 4,
         name: "Grace Lavoe",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Talking Parrot",
+        quote:"The gym has become a family for me. I've met some of my closest friends here, and we push each other to be our best selves.",
+          job: "Talking Parrot",
         avatar: require("./images/avatar4.jpg")
     },
     {
         id: 5,
         name: "Nana Yaa Dankwa",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Pharmacist",
+        quote: "I was hesitant to join a gym because I have a physical disability, but the trainers have been so accommodating and understanding. They've helped me modify exercises so that I can still get a great workout.",
+          job: "Pharmacist",
         avatar: require("./images/avatar5.jpg")
     }
 ]
